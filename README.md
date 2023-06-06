@@ -1,4 +1,4 @@
-# Deep Learning Lab2 Report
+# Deep Learning Lab2 Report 
   Similar to the previous lab, the lab is about using ESPnet toolkit to train Taiwanese speech data with noise and translate it into text. The following content shows how to build and complete the task.
   
 ## Data Argumentation
